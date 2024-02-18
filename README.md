@@ -1,0 +1,1 @@
+Greetings, everyone! Thank you for visiting my page. Here, you'll find the LUTs I've personally tested and refined. These LUTs are designed to work with Davinci Wide Gamut, maintaining consistency from input to output. Inspired by the renowned Kodak 2383 film stock, they have been meticulously adjusted to replicate a contemporary film curve, departing from conventional norms.
